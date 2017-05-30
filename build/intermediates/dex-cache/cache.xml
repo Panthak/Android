@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\636e9dca1c08fe131c7b9fa88a28f310ba6526f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_b6244a40d9e03a869287a8e14bf38e69e5c6eb6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e9a087b4fec75c53165a14f43a466d2330c41002\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="132d5c315c3ad0e8b65e6f845ffdeb7a613f12e1">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0676470f95698181587f33d8d2a643482e3490d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\375fbf41a9c1233f7ba31ef4df87e20f5282c8bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_0e8a74e844bfcef448ed2a72f3b78bf3a83a50c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\ef873e81f80a2b61947308b89fb5349015367627\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_f60711749f46f864d66a01b85e81281b2dfa7e9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\d9d964a8d1cf5df53d59e067e597d1968475ed2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_6d212bb56b1c042cf00025bc4f47e0e05989bb12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\414193429908a04f4501c20b09e53ee73ede4e46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_cff2d26273ec495a3e95e24707c2297c2a7d0496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_fda9f7582bbc7bcf64555d39f4e2c08cb8a5211f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\403b01cc959c95961bf8ae8610c3edb0c0bc115d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_3cc0944ae11abc6cf9e6e6aa0de921805baa8c08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\27b8a4457f16fd778f3005012ce87548e0843255\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_401cd07b76642572259c72502b1bdcb92d9fba59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\f592341683463f534153d49d62e200ca25e07cd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_1451e47a9b3892856a2e85ea9db72fd6b66738fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\315da844858958b38463ef1f6d9c9d4c883a9580\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_ad477e7e920a4f43a31404a1c75349de33ad113d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\16a6bbc4cd9b45ee2dd2a2baf45778f8878a4009\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_a472e6ca6698c68d452c6dd0915fb0391dffc74e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\575505bf51056f2b2bf16aef3f8b2f68fd1f8670\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_1ab93fface7f2124f6a7dcc917020d18d7a8453f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\24b2d24cc2915f644a87a506d02995e7d604ed61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_50da8cda68666e3f494aba20c0ef42c076f7b315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_56cb9135bf1bd704eeaa78bb7e1de36312cfdd96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\865afcf73bad6e6e2b4777596b4027cb1b23001d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_267e37b5012b7a16082334d42cc1d14ee30fc34d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\c0c3e5e319a41b449a54ab744a79c4533abebe6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\user\Desktop\GooglePlacesDetail\TestLatLon\app\build\intermediates\pre-dexed\debug\classes_a0576f204f2c32d5163a12679f2e13114c46d180.jar" />
+    </item>
+
+</items>
