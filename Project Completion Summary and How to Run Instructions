@@ -1,0 +1,21 @@
+Project Definition : To develop an Android Application which displays restaurants' list with their details in Ahmedabad city.
+
+Assumptions : 
+--> Android device is connected to Internet.
+--> Android device is running on OS 4.0+
+
+Chellenges faced :
+--> Have never used an API before this task, hence was difficult to understand at first.
+--> Getting the correct(which has all the information, i.e. Rating,Name of the restaurant,Address etc..) JSON data by passing different parameters in the JSON data URL, i.e. &type = restaurant,&keyword=food, etc.. and even the link itself /places/radarsearch/,/places/nearbysearch/, etc..
+
+Limitation :
+--> Application does not have contact (phone number) and reviews details of restaurants.
+
+Improvements possible :
+--> Apart from Contact details addition, A new feature of "Restaurants near me" can be developed which fetches user's location and gives details about nearby restaurants.
+
+
+How to Run :
+--> Download the source code from the GitHub link(https://github.com/Panthak/Android/).
+--> Download will be of .zip file, Unzip the file and import it into Android Studio.
+
