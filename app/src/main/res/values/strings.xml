@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">TestLatLon</string>
-    <string-array name="cities">
-        <item>Ahmedabad</item>
-        <item>Vadodara</item>
-    </string-array>
-    <string name="title_activity_maps">Map</string>
-</resources>
